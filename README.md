@@ -85,7 +85,21 @@ Backend uses regex-based case-insensitive search:
 <img width="838" height="415" alt="image" src="https://github.com/user-attachments/assets/e3cd338a-521d-419e-b851-c4c3f1b4529f" />
 
 
+ALL OUTPUTS
+<img width="1340" height="842" alt="image" src="https://github.com/user-attachments/assets/f2cbc9d7-eeff-442f-9d08-60ec5e1b8a81" />
+<img width="1750" height="683" alt="image" src="https://github.com/user-attachments/assets/226a5316-7367-478f-94e6-b9cb3ad25d0d" />
+<img width="1720" height="447" alt="image" src="https://github.com/user-attachments/assets/c0e8bf0c-f6b8-436a-b030-d387c1cac72e" />
+<img width="1786" height="758" alt="image" src="https://github.com/user-attachments/assets/dc7d0bec-46d7-4709-b450-c644f13281a5" />
+<img width="1730" height="858" alt="image" src="https://github.com/user-attachments/assets/dd7fc430-57e7-4763-9a61-2efafcc06b7a" />
+<img width="1602" height="638" alt="image" src="https://github.com/user-attachments/assets/712874d4-42cb-43a2-af4b-5afd82d250cb" />
 
+
+
+
+
+.
+.
+.
 
 
 
